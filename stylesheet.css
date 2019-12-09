@@ -1,0 +1,21 @@
+ body {
+    font-family: 'Barlow', sans-serif;
+    background-color:black;
+    margin: auto;
+}
+.container {
+    width:1080px;
+    margin: auto; /*centering the page*/
+}
+.picture {
+    max-width:1080px;
+    float:left;
+    padding:20px;
+}
+
+.mainecoon {
+    padding:10px;
+}
+.billieeilish {
+    padding:10px;
+}
